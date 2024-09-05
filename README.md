@@ -1,2 +1,2 @@
-# SQL-Data-Cleaning-Housing
-Cleaning housing Data using sql
+# SQL-Data-Cleaning-Layoffs
+Cleaning Corporate Layoffs Data and Exploratory Data Analysis (EDA) Using SQL
